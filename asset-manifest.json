@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/turbina/static/css/main.3dc4638e.chunk.css",
+    "main.js": "/turbina/static/js/main.3861c295.chunk.js",
+    "main.js.map": "/turbina/static/js/main.3861c295.chunk.js.map",
+    "runtime-main.js": "/turbina/static/js/runtime-main.9a69f434.js",
+    "runtime-main.js.map": "/turbina/static/js/runtime-main.9a69f434.js.map",
+    "static/css/2.a2825889.chunk.css": "/turbina/static/css/2.a2825889.chunk.css",
+    "static/js/2.d5006567.chunk.js": "/turbina/static/js/2.d5006567.chunk.js",
+    "static/js/2.d5006567.chunk.js.map": "/turbina/static/js/2.d5006567.chunk.js.map",
+    "static/js/3.f6022296.chunk.js": "/turbina/static/js/3.f6022296.chunk.js",
+    "static/js/3.f6022296.chunk.js.map": "/turbina/static/js/3.f6022296.chunk.js.map",
+    "index.html": "/turbina/index.html",
+    "static/css/2.a2825889.chunk.css.map": "/turbina/static/css/2.a2825889.chunk.css.map",
+    "static/css/main.3dc4638e.chunk.css.map": "/turbina/static/css/main.3dc4638e.chunk.css.map",
+    "static/js/2.d5006567.chunk.js.LICENSE.txt": "/turbina/static/js/2.d5006567.chunk.js.LICENSE.txt",
+    "static/media/Crystalised.c394c011.mp3": "/turbina/static/media/Crystalised.c394c011.mp3",
+    "static/media/index.css": "/turbina/static/media/Inter.var.12cb9d0b.woff2",
+    "static/media/arrow.0f4d57ea.svg": "/turbina/static/media/arrow.0f4d57ea.svg",
+    "static/media/Player.module.css": "/turbina/static/media/background.a4c50752.jpg",
+    "static/media/close.df6b5bb9.svg": "/turbina/static/media/close.df6b5bb9.svg",
+    "static/media/cross.a8303e87.svg": "/turbina/static/media/cross.a8303e87.svg",
+    "static/media/everyYouEveryMe.c9176e4e.mp3": "/turbina/static/media/everyYouEveryMe.c9176e4e.mp3",
+    "static/media/logo.2155b0aa.svg": "/turbina/static/media/logo.2155b0aa.svg",
+    "static/media/pause.9e2b28c2.svg": "/turbina/static/media/pause.9e2b28c2.svg",
+    "static/media/phantogramWhenImSmall.e9dea26c.mp3": "/turbina/static/media/phantogramWhenImSmall.e9dea26c.mp3",
+    "static/media/play.a22085be.svg": "/turbina/static/media/play.a22085be.svg",
+    "static/media/tallHeightsSpiritCold.1ef7954a.mp3": "/turbina/static/media/tallHeightsSpiritCold.1ef7954a.mp3",
+    "static/media/turbina.10fd6bb4.svg": "/turbina/static/media/turbina.10fd6bb4.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9a69f434.js",
+    "static/css/2.a2825889.chunk.css",
+    "static/js/2.d5006567.chunk.js",
+    "static/css/main.3dc4638e.chunk.css",
+    "static/js/main.3861c295.chunk.js"
+  ]
+}
